@@ -1,0 +1,8 @@
+0,AttributeError,'ellipsis' object has no attribute 'sort',0,,2022-06-16 21:09:25.344039
+1,TypeError,'int' object is not iterable,0,,2022-06-16 21:16:13.768976
+2,SyntaxError,"invalid syntax (<ipython-input-27-17f31049f322>, line 1)",0,,2022-06-16 21:19:55.082736
+3,SyntaxError,"invalid syntax (<ipython-input-28-4fd07016c678>, line 1)",0,,2022-06-16 21:20:07.668348
+4,AttributeError,'builtin_function_or_method' object has no attribute 'abs',0,,2022-06-16 21:20:52.804014
+5,NameError,name 'show' is not defined,0,,2022-06-16 21:26:56.627704
+6,AttributeError,'ellipsis' object has no attribute 'labels',0,,2022-06-16 21:34:01.980983
+7,NameError,name 'labels' is not defined,0,,2022-06-16 21:34:16.752227

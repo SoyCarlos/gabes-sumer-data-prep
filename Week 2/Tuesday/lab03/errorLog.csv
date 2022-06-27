@@ -1,0 +1,9 @@
+0,SyntaxError,"cannot assign to function call (<ipython-input-20-65c7f9009f63>, line 9)",0,,2022-06-21 20:00:14.982606
+1,NameError,name 'difference' is not defined,0,,2022-06-21 20:00:25.310301
+2,TypeError,unsupported operand type(s) for -: 'str' and 'str',0,,2022-06-21 20:01:18.596904
+3,SyntaxError,"invalid syntax (<ipython-input-23-9196e3d07762>, line 9)",0,,2022-06-21 20:01:34.300345
+4,TypeError,unsupported operand type(s) for -: 'str' and 'str',0,,2022-06-21 20:02:21.985259
+5,TypeError,unsupported operand type(s) for -: 'str' and 'str',0,,2022-06-21 20:02:57.401224
+6,NameError,name 'pi' is not defined,0,,2022-06-21 20:09:33.219181
+7,NameError,name 'pi' is not defined,0,,2022-06-21 20:09:46.466676
+8,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2022-06-27 19:40:04.748837

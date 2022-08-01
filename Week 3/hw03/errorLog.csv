@@ -1,0 +1,86 @@
+0,TypeError,with_column() got an unexpected keyword argument 'descending',0,,2022-07-27 23:37:39.053842
+1,SyntaxError,"invalid syntax (<ipython-input-19-08082ca27660>, line 3)",0,,2022-07-27 23:39:00.889621
+2,SyntaxError,"invalid syntax (<ipython-input-20-9c9fd908fae3>, line 3)",0,,2022-07-27 23:39:11.385054
+3,SyntaxError,"invalid syntax (<ipython-input-21-2cc6b4f762b0>, line 3)",0,,2022-07-27 23:39:22.393583
+4,SyntaxError,"invalid syntax (<ipython-input-22-98fa0a97aa57>, line 5)",0,,2022-07-27 23:40:04.509515
+5,SyntaxError,"invalid syntax (<ipython-input-23-c415a26bc42f>, line 5)",0,,2022-07-27 23:40:15.144740
+6,SyntaxError,"invalid syntax (<ipython-input-24-5708cae3767a>, line 4)",0,,2022-07-27 23:40:48.097968
+7,SyntaxError,"invalid syntax (<ipython-input-25-5fd680d81403>, line 5)",0,,2022-07-27 23:40:59.275455
+8,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2022-07-27 23:41:07.646169
+9,ValueError,"The column ""pter"" is not in the table. The table contains these columns: Date, NEI, NEI-PTER",0,,2022-07-27 23:43:36.043376
+10,NameError,name 'make' is not defined,0,,2022-07-27 23:44:50.210318
+11,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2022-07-27 23:44:59.909924
+12,ValueError,"label ""PTER"" not in labels ('Date', 'NEI', 'NEI-PTER')",0,,2022-07-27 23:45:08.777293
+13,ValueError,"label ""PTER"" not in labels ('Date', 'NEI', 'NEI-PTER')",0,,2022-07-27 23:45:11.124249
+14,ValueError,"label ""PTER"" not in labels ('Date', 'NEI', 'NEI-PTER')",0,,2022-07-27 23:47:58.285334
+15,NameError,name 'Date' is not defined,0,,2022-07-27 23:57:46.619988
+16,TypeError,with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2022-07-27 23:58:03.287959
+17,TypeError,with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2022-07-27 23:58:48.153418
+18,TypeError,with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2022-07-27 23:59:40.961127
+19,Exception,Timeout,0,,2022-07-28 00:08:16.016789
+20,Exception,Timeout,0,,2022-07-28 00:15:36.536550
+21,Exception,Timeout,0,,2022-07-28 00:15:47.069519
+22,Exception,Timeout,0,,2022-07-28 00:16:01.391221
+23,Exception,Timeout,0,,2022-07-28 00:16:04.803227
+24,Exception,Timeout,0,,2022-07-28 00:21:30.723730
+25,TypeError,with_column() missing 1 required positional argument: 'values',0,,2022-07-28 00:24:32.897492
+26,Exception,Timeout,0,,2022-07-28 00:24:33.444557
+27,Exception,Timeout,0,,2022-07-28 00:24:46.025091
+28,Exception,Timeout,0,,2022-07-28 00:26:11.122017
+29,ValueError,"label ""Migration Rates"" not in labels ('REGION', 'NAME', '2015', '2016', 'BIRTHS', 'DEATHS', 'MIGRATION', 'OTHER')",0,,2022-07-28 00:29:14.007805
+30,Exception,Timeout,0,,2022-07-28 00:29:14.275998
+31,Exception,Timeout,0,,2022-07-28 00:29:55.524967
+32,ValueError,"label ""Migration_Rates"" not in labels ('REGION', 'NAME', '2015', '2016', 'BIRTHS', 'DEATHS', 'MIGRATION', 'OTHER')",0,,2022-07-28 00:29:59.725226
+33,Exception,Timeout,0,,2022-07-28 00:30:00.029988
+34,Exception,Timeout,0,,2022-07-28 00:30:33.882818
+35,Exception,Timeout,0,,2022-07-28 00:30:39.307743
+36,Exception,Timeout,0,,2022-07-28 00:32:13.513159
+37,Exception,Timeout,0,,2022-07-28 00:32:16.673953
+38,Exception,Timeout,0,,2022-07-28 00:35:36.152312
+39,Exception,Timeout,0,,2022-07-28 00:38:27.181003
+40,Exception,Timeout,0,,2022-07-28 00:38:34.239531
+41,Exception,Timeout,0,,2022-07-28 00:38:38.167314
+42,Exception,Timeout,0,,2022-07-28 00:39:41.892811
+43,Exception,Timeout,0,,2022-07-28 00:39:44.230089
+44,Exception,Timeout,0,,2022-07-28 00:40:26.747898
+45,AttributeError,'Table' object has no attribute 'scatterplot',0,,2022-07-28 00:41:58.607791
+46,Exception,Timeout,0,,2022-07-28 00:41:59.082131
+47,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2022-07-28 00:45:28.890431
+48,Exception,Timeout,0,,2022-07-28 00:45:29.005509
+49,TypeError,'tuple' object is not callable,0,,2022-07-28 00:47:57.430703
+50,Exception,Timeout,0,,2022-07-28 00:47:58.077277
+51,Exception,Timeout,0,,2022-07-28 00:48:08.468844
+52,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2022-07-28 00:48:15.568562
+53,Exception,Timeout,0,,2022-07-28 00:48:15.663042
+54,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2022-07-28 00:48:20.993927
+55,Exception,Timeout,0,,2022-07-28 00:48:21.096047
+56,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2022-07-28 00:48:37.915993
+57,Exception,Timeout,0,,2022-07-28 00:48:38.031441
+58,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2022-07-28 00:48:40.261217
+59,Exception,Timeout,0,,2022-07-28 00:48:40.430326
+60,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2022-07-28 00:48:41.219240
+61,Exception,Timeout,0,,2022-07-28 00:48:41.304992
+62,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2022-07-28 00:48:42.598355
+63,Exception,Timeout,0,,2022-07-28 00:48:43.239454
+64,Exception,Timeout,0,,2022-07-28 00:49:43.516766
+65,Exception,Timeout,0,,2022-07-28 00:50:13.249156
+66,KeyError,'otter',0,,2022-07-28 00:51:02.922103
+67,Exception,Timeout,0,,2022-07-28 00:51:03.722722
+68,KeyError,'otter',0,,2022-07-28 00:51:09.533320
+69,Exception,Timeout,0,,2022-07-28 00:51:09.630245
+70,Exception,Timeout,0,,2022-07-28 00:51:42.253975
+71,Exception,Timeout,0,,2022-07-28 00:51:45.269779
+72,NameError,name 'boston' is not defined,0,,2022-07-28 00:53:08.570952
+73,Exception,Timeout,0,,2022-07-28 00:53:08.774975
+74,Exception,Timeout,0,,2022-07-28 00:53:18.568504
+75,Exception,Timeout,0,,2022-07-28 00:53:22.660105
+76,Exception,Timeout,0,,2022-07-28 00:55:10.388421
+77,Exception,Timeout,0,,2022-07-28 00:56:03.390036
+78,Exception,Timeout,0,,2022-07-28 00:56:49.189916
+79,Exception,Timeout,0,,2022-07-28 00:56:51.286237
+80,Exception,Timeout,0,,2022-07-28 01:07:53.373152
+81,Exception,Timeout,0,,2022-07-28 01:07:56.338803
+82,Exception,Timeout,0,,2022-07-28 01:08:50.894050
+83,Exception,Timeout,0,,2022-07-28 01:08:53.986720
+84,Exception,Timeout,0,,2022-07-28 01:22:11.768631
+85,Exception,Timeout,0,,2022-07-28 01:22:16.386050
